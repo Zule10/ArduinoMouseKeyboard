@@ -11,7 +11,7 @@
 /*
  * modificado por:
  * Oscar Uribe
- * Zuleimi Gonzales
+ * Zuleimi Gonzalez
  * Juan Diego Torres
  */
    
